@@ -130,7 +130,7 @@ searchCursor.endEditBlock();
 
 程序整体运行流程如图 1 所示，查找替换内部流程如图 2 所示。
 
-![多文档文本编辑器整体运行流程](picture/overall_flow.png)
+![多文档文本编辑器整体运行流程](.picture/overall_flow.png)
 
 *多文档文本编辑器整体运行流程*
 
