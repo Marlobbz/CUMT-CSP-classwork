@@ -47,7 +47,6 @@
 * 自定义拼图行数和列数（2～10）
 * 游戏计时、步数统计及最佳成绩记录
 
-ps: 学会用 Visio 画图啦！
 
 **相关文件：**
 
@@ -84,8 +83,7 @@ ps: 学会用 Visio 画图啦！
 **相关文件：**
 
 * [TextEditor 项目源码](./TextEditor/TextEditor/)
-* [TextEditor 实验报告（Markdown）](./TextEditor/TextEditor/REPORT.md)
-* [TextEditor 设计图表与截图](./TextEditor/picture/)
+* [TextEditor 实验报告](./TextEditor/TextEditor/REPORT.md)
 
 ---
 
