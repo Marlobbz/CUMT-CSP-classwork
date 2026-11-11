@@ -8,7 +8,7 @@
 
 |                      Calculator                       |                       PuzzleGame                       |                          TextEditor                          |
 | :---------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="./Calculator/picture/host.png" width="260"> | <img src="./PuzzleGame/picture/test1.png" width="260"> | <img src="./TextEditor/picture/screenshot_main_crop.png" width="260"> |
+| <img src="Calculator/host.png" width="260"> | <img src="./PuzzleGame/picture/test1.png" width="260"> | <img src="./TextEditor/picture/screenshot_main_crop.png" width="260"> |
 
 ## 实验项目
 
